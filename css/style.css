@@ -9571,3 +9571,11 @@ h6,
   padding: 0;
   list-style-type: none;
 }
+
+.owl-carousel .owl-stage {
+    display: flex;
+  }
+
+.owl-carousel .owl-item .testimonial-item .bg-light {
+    height: 260px;
+}
